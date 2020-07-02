@@ -1,40 +1,14 @@
 {
+  "projectName": "htooeainthin",
+  "projectOwner": "HtooEainThin",
+  "repoType": "github",
+  "repoHost": "https://github.com",
   "files": [
     "README.md"
   ],
   "imageSize": 100,
-  "contributorsPerLine": 4,
-  "contributorsSortAlphabetically": false,
-  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
-  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
-  "types": {
-    "custom": {
-      "symbol": "🎶",
-      "description": "Type and Support Lyrics.",
-      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
-    },
-    "Notes": {
-      "symbol": "🎼",
-      "description": "Support add a Chords.",
-      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
-    },
-    "Guitar Chords": {
-      "symbol": "🎸",
-      "description": "Support add a Chords.",
-      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
-    },
-    "Spellcheck": {
-      "symbol": "📝",
-      "description": "Spell and Grammer Check.",
-      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
-    },
-    "Design": {
-      "symbol": "🎨",
-      "description": "Web and Design.",
-      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
-    }
-  },
-  "skipCi": true,
+  "commit": true,
+  "commitConvention": "none",
   "contributors": [
     {
       "login": "PhyoZinAung",
@@ -42,21 +16,9 @@
       "avatar_url": "https://avatars2.githubusercontent.com/u/8612858?v=4",
       "profile": "https://github.com/PhyoZinAung",
       "contributions": [
-        "design"
-      ]
-    },
-    {
-      "login": "shitlearning",
-      "name": "Maung Maung Oo",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/67183655?v=4",
-      "profile": "https://github.com/shitlearning",
-      "contributions": [
         "content"
       ]
     }
   ],
-  "projectName": "htooeainthin.github.io",
-  "projectOwner": "HtooEainThin",
-  "repoType": "github",
-  "repoHost": "https://github.com"
+  "contributorsPerLine": 7
 }
