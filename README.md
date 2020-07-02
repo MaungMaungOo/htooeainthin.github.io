@@ -39,12 +39,21 @@ This project follows the [all-contributors](https://github.com/all-contributors/
  - Lyrics Request (Open Issue)
 
  ## Need
+ 
  [] Lyrics Web Form 
+ 
  [] Request Web Form
+ 
  [] Function Request From
+ 
  [] Photo Upload
+ 
  [] Add CC0 or Artist License
+ 
  [] Chords and Notes
+ 
  [] Autoplay and Tempo
+ 
  [] LRC Generator
+ 
  [] Mobile Responsive
