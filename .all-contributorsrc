@@ -6,12 +6,12 @@
   "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
   "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
   "types": {
-    "Lyrics": {
+    "custom": {
       "symbol": "🎶",
       "description": "Type and Support Lyrics.",
       "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
     },
-    "Music Notes": {
+    "Notes": {
       "symbol": "🎼",
       "description": "Support add a Chords.",
       "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
