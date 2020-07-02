@@ -1,11 +1,11 @@
 ---
-title: တနေ့နေ့တော့ချစ်လာလိမ့်မည်
+title: တနေ့နေ့တော့ ချစ်လာလိမ့်မည်
 layout: post
 date: '2020-07-01 22:18:00 +0630'
 background: https://i51.photobucket.com/albums/f385/nyilynnseck/Native/htoo4206x300.jpg
-tags:
-subtitle:
-artist:
+tags: Music
+subtitle: တနေ့နေ့တော့ ချစ်လာလိမ့်မယ်
+artist: ထူးအိမ်သင်
 ---
 
 # တနေ့နေ့တော့ချစ်လာလိမ့်မည်
