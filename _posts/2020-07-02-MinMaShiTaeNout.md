@@ -1,7 +1,7 @@
 ---
 title: မင်းမရှိတဲ့နောက်
 layout: post
-date: '2020-07-02 19:02:00 +0630'
+date: '2020-07-02 19:52:00 +0630'
 background: https://obobeatz.files.wordpress.com/2011/08/293399_145639582187284_100002237283781_266322_7611634_n.jpg
 tags:
 - HtooEainThin
