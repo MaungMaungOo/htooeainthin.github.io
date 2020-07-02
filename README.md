@@ -1,9 +1,8 @@
+ # Htoo Eain Thin
+ ### HtooEainTh.in
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Contributors ✨
@@ -32,3 +31,20 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+ ## Guide is Update Later
+ - How to use Markdown
+ - How to use HTML WYSWYG Editor
+ - Lyrics Merge (Pull Request Issue)
+ - Lyrics Request (Open Issue)
+
+ ## Need
+ [] Lyrics Web Form 
+ [] Request Web Form
+ [] Function Request From
+ [] Photo Upload
+ [] Add CC0 or Artist License
+ [] Chords and Notes
+ [] Autoplay and Tempo
+ [] LRC Generator
+ [] Mobile Responsive
