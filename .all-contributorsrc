@@ -1,5 +1,7 @@
 {
-  "files": ["README.md"],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
   "contributorsPerLine": 4,
   "contributorsSortAlphabetically": false,
@@ -32,6 +34,20 @@
       "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
     }
   },
-  "skipCi": "true",
-  "contributors": []
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "PhyoZinAung",
+      "name": "Phyo Zin Aung",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/8612858?v=4",
+      "profile": "https://github.com/PhyoZinAung",
+      "contributions": [
+        "design"
+      ]
+    }
+  ],
+  "projectName": "htooeainthin.github.io",
+  "projectOwner": "HtooEainThin",
+  "repoType": "github",
+  "repoHost": "https://github.com"
 }
