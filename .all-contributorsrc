@@ -1,5 +1,5 @@
 {
-  "projectName": "htooeainthin",
+  "projectName": "htooeainthin.github.io",
   "projectOwner": "HtooEainThin",
   "repoType": "github",
   "repoHost": "https://github.com",
@@ -36,7 +36,19 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "kokoye2007",
+      "name": "kokoye2007",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3091754?v=4",
+      "profile": "https://ubuntu-mm.net",
+      "contributions": [
+        "code",
+        "design",
+        "doc"
+      ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
