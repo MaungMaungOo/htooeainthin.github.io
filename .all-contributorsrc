@@ -1,0 +1,64 @@
+{
+  "projectName": "htooeainthin.github.io",
+  "projectOwner": "HtooEainThin",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "PhyoZinAung",
+      "name": "Phyo Zin Aung",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/8612858?v=4",
+      "profile": "https://github.com/PhyoZinAung",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "shitlearning",
+      "name": "Maung Maung Oo",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/67183655?v=4",
+      "profile": "https://github.com/shitlearning",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "claymtk",
+      "name": "claymtk",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/32919682?v=4",
+      "profile": "https://github.com/claymtk",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "kokoye2007",
+      "name": "kokoye2007",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/3091754?v=4",
+      "profile": "https://ubuntu-mm.net",
+      "contributions": [
+        "code",
+        "design",
+        "doc"
+      ]
+    },
+    {
+      "login": "MaungMaungOo",
+      "name": "_OWL",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/24313310?v=4",
+      "profile": "https://github.com/MaungMaungOo",
+      "contributions": [
+        "design",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true
+}
